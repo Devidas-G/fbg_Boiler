@@ -4,7 +4,6 @@ import 'package:fbg/core/providers/location_pr.dart';
 import 'package:fbg/core/services/config_s.dart';
 import 'package:fbg/locator.dart';
 import 'package:fbg/ui/routing/router.dart';
-import 'package:fbg/ui/views/homepage.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
